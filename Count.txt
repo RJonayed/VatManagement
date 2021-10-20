@@ -1,0 +1,7 @@
+ if (!string.IsNullOrEmpty(txt1.Text) && !string.IsNullOrEmpty(txt2.Text))
+            {
+
+                txteq.Text = (Convert.ToInt32(txt1.Text) + Convert.ToInt32(txt2.Text)).ToString();
+                //txteq.Text = txteq.ToString();
+
+            }

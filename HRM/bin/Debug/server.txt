@@ -1,0 +1,10 @@
+119.18.147.47,49170\MSSQL2012
+ROFASHA
+Asdf@1234
+sa
+2
+no
+
+
+
+server,database,pwd,uid,show
